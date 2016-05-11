@@ -1,0 +1,3 @@
+# aiquestion
+
+this will be a blog...
